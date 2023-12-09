@@ -18,3 +18,9 @@
 
 7. Gradio App Interface:
    - The final 2D to 3D conversion application is deployed on the Gradio App Interface. Gradio is an open-source library that allows developers to quickly create customizable and user-friendly interfaces for machine learning models. In this case, it provides an interface for users to interact with the 2D to 3D conversion system.
+  
+![image](https://github.com/Creator-1523/Reconstruct-3D-scenes-from-2D-images/assets/84783465/c4871f9b-5867-4a71-ab81-89ea1fb619d8)
+
+
+![image](https://github.com/Creator-1523/Reconstruct-3D-scenes-from-2D-images/assets/84783465/c7219c9e-6f41-4121-adae-c74a5c4ccd8e)
+
